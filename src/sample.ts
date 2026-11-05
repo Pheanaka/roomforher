@@ -1,15 +1,15 @@
 const author = {
-  name: `Angela`,
-  nickname: `angie`,
+  name: `Room For Her`,
+  nickname: `room for her`,
   tiktok: `https://www.tiktok.com/@indieteamofone`,
-  ig: `https://www.instagram.com/indieteamofone/`,
+  ig: `https://www.instagram.com/roomforher.media/`,
   x: `https://x.com/indieteamofone`,
   email: "mailto:anthonylannn@gmail.com",
 };
 
 const buy = {
-  title: `See on Github`,
-  link: `https://github.com/anthonylan/angie`,
+  title: `Read more on Substack`,
+  link: `https://substack.com/@room4her`,
 };
 
 export { author, buy };
